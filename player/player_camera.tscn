@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://bxw0xv1b74jr6"]
+
+[node name="PlayerCamera" type="Camera2D"]
+scale = Vector2(3.26016, -21.5123)
